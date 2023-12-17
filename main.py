@@ -37,8 +37,8 @@ async def is_admins(chat_id: int):
 
 
 EMOJIOS = [ 
-      "🌿",
-      "⚡",
+      "🥰",
+      "😘",
 ]
       
 START = f"""
